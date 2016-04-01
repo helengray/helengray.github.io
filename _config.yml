@@ -11,14 +11,13 @@ paginate: 5
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 吴锦涛的官方网站
-tagline: 入则孝-出则悌-谨而信-泛爱众-而亲仁
+title : 李晓伟的个人网站
+tagline: 我爱人人，人人爱我
 author :
-  name : Jellon Wu
-  email : jellon.wu@gmail.com
-  github : cinowu
-  twitter : jellonwu
-  feedburner : jellonwu
+  name : Helen
+  email : 631855639@qq.com
+  github : https://github.com/helengray
+
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -28,11 +27,11 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://codewu.com
+production_url : http://helengray.com
 #production_url : http://localhost:4000
 
 safe: false
-cdn_url : http://cinowu.qiniudn.com
+cdn_url : http://helengray.com
 
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
@@ -82,13 +81,13 @@ JB :
   tags_path : /tags.html
   messages_path : /messages.html
   about_path : /about.html
-  photo_path : /photo.html
+  #photo_path : /photo.html
   music_path : /music.html
   video_path : /video.html
   links_path : /links.html
-  weiboxiu_path : /weiboxiu.html
+  #weiboxiu_path : /weiboxiu.html
   atom_path : /atom.xml
-  rss_path : /rss.xml
+  #rss_path : /rss.xml
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
@@ -97,9 +96,9 @@ JB :
   comments :
     provider : duoshuo
     duoshuo :
-      short_name : cino
+      short_name : helen
     disqus :
-      short_name : cinowu
+      short_name : helen
     livefyre :
       site_id : 123
     intensedebate :

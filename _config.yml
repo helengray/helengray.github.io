@@ -31,7 +31,7 @@ production_url : http://helengray.github.io
 #production_url : http://localhost:4000
 
 safe: false
-cdn_url : http://helengray.github.io
+#cdn_url : http://helengray.github.io
 
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
